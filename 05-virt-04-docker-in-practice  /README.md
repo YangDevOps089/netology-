@@ -16,6 +16,7 @@ vulnerabilities:
   medium: "54"
   low: "63"
   undefined: "29"
+  
 ​```
 
   Полный отчёт в файле [Uploading отчёт.txt…]()
