@@ -35,5 +35,10 @@ vulnerabilities:
 
 <img width="1261" height="662" alt="изображение" src="https://github.com/user-attachments/assets/328eb348-9042-48f7-b424-308b9bfcf5e2" />
 
+## Задание 6
+
+<img width="1040" height="1220" alt="изображение" src="https://github.com/user-attachments/assets/fda3e03a-4a02-4065-b55e-e7be32a3a8bf" />
+
+
 
 
