@@ -15,5 +15,7 @@ vulnerabilities:
   low: "63"
   undefined: "29"
 ​```
+## Задание 3
 
+<img width="405" height="187" alt="изображение" src="https://github.com/user-attachments/assets/3965030b-bc2b-4c0e-af55-c744953998dd" />
 
