@@ -27,3 +27,13 @@ vulnerabilities:
 
 <img width="1026" height="263" alt="изображение" src="https://github.com/user-attachments/assets/38588b6b-f1f6-42a4-ae1f-20fdbd3b15d1" />
 
+## Задание 5
+
+<img width="572" height="257" alt="изображение" src="https://github.com/user-attachments/assets/8d5c3c95-ab7b-4c1d-b0a7-fdea99e4bf81" />
+
+<img width="334" height="61" alt="изображение" src="https://github.com/user-attachments/assets/61c38457-a413-47fa-96a5-dc26eb7ddea1" />
+
+<img width="1261" height="662" alt="изображение" src="https://github.com/user-attachments/assets/328eb348-9042-48f7-b424-308b9bfcf5e2" />
+
+
+
