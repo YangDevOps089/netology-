@@ -19,3 +19,11 @@ vulnerabilities:
 
 <img width="405" height="187" alt="изображение" src="https://github.com/user-attachments/assets/3965030b-bc2b-4c0e-af55-c744953998dd" />
 
+##Задание 4
+
+<img width="415" height="365" alt="изображение" src="https://github.com/user-attachments/assets/5fc85fc6-8597-4e77-98fa-01cde9c79d93" />
+
+###Задание 4.5
+
+<img width="1026" height="263" alt="изображение" src="https://github.com/user-attachments/assets/38588b6b-f1f6-42a4-ae1f-20fdbd3b15d1" />
+
