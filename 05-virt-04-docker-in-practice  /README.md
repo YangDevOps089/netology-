@@ -3,6 +3,7 @@
 
 Отчет по уязвимости образа
 
+​```
 andrey@lp01:~/netology/shvirtd-example-python$ yc container image scan crph779lb34fmdg6p9i7
 done (31s)
 id: chekod1n9gv17mf94hrq
@@ -15,6 +16,7 @@ vulnerabilities:
   medium: "54"
   low: "63"
   undefined: "29"
+​```
 
   Полный отчёт в файле [Uploading отчёт.txt…]()
 
