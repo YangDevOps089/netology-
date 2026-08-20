@@ -1,16 +1,16 @@
 provider "docker" {
-  host = "ssh://devops@158.160.84.74:22"
+  host = "ssh://devops@158.160.78.218:22"
 }
 
 terraform {
   required_providers {
     
     docker = {
-        source  = "kreuzwerker/docker"
+        source  = "registry.terraform.io/kreuzwerker/docker"
         version = "~> 3.0"
     }
     random = {
-        source = "hashicorp/random"
+        source = "registry.terraform.io/hashicorp/random"
         version = "~> 3.5"
         }
     }
