@@ -27,3 +27,15 @@
 <img width="263" height="89" alt="изображение" src="https://github.com/user-attachments/assets/d9cd4d31-10dc-4b39-b98e-16d13430ebad" />
 Демон докер не удалит контейнер из локального хранилища пока keep_locally = true
 <img width="623" height="68" alt="изображение" src="https://github.com/user-attachments/assets/a867ffbf-1e85-4abf-8ba2-fba09e18c151" />
+
+# 2*
+
+Не написано в каком виде предоставить ответ, поэтому ссылка на папку с .tf и gitignore
+
+https://github.com/YangDevOps089/netology-/tree/main/ter-homeworks/01/1.2/extra
+
+
+# 3*
+
+
+<img width="941" height="1082" alt="изображение" src="https://github.com/user-attachments/assets/d75efcb9-911f-4b11-aa36-5de6c6f4bd75" />
