@@ -11,6 +11,17 @@ preemptible = true и core_fraction=5 Позволяют экономить де
 <img width="1224" height="244" alt="изображение" src="https://github.com/user-attachments/assets/e861a1e2-c6be-4bd0-8040-5ad060c7b52a" />
 
 # Задание 3
+
 <img width="1201" height="242" alt="изображение" src="https://github.com/user-attachments/assets/500fed9b-fce1-4168-8740-082e0644f850" />
 <img width="1197" height="280" alt="изображение" src="https://github.com/user-attachments/assets/cd915549-0579-46a7-8ca2-9d4acca314d9" />
 
+# Задание 4
+
+<img width="532" height="254" alt="изображение" src="https://github.com/user-attachments/assets/1f01d13d-ff3b-4c20-a153-c82e0059fa58" />
+<img width="1201" height="230" alt="изображение" src="https://github.com/user-attachments/assets/6f05a649-3062-4850-8152-538adf3d37af" />
+
+# Задание 5
+
+<img width="641" height="125" alt="изображение" src="https://github.com/user-attachments/assets/f05a1a44-d4e3-4c5b-b66e-e216a361015e" />
+
+# Задание 6
