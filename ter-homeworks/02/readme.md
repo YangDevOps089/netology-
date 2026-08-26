@@ -25,3 +25,12 @@ preemptible = true и core_fraction=5 Позволяют экономить де
 <img width="641" height="125" alt="изображение" src="https://github.com/user-attachments/assets/f05a1a44-d4e3-4c5b-b66e-e216a361015e" />
 
 # Задание 6
+
+Ответ в репозитории
+
+# Задание 7
+
+<img width="1541" height="56" alt="{3F169E3F-C214-42C4-9FC2-1960927DC818}" src="https://github.com/user-attachments/assets/9d3f60f5-30a7-453c-a23a-689ecae0b394" />
+
+
+
