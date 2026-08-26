@@ -38,5 +38,13 @@ preemptible = true и core_fraction=5 Позволяют экономить де
 
 <img width="526" height="73" alt="изображение" src="https://github.com/user-attachments/assets/ac7362c1-31fd-4190-9f50-a3de82adb9ed" />
 
+# Задание 9 
+
+<img width="636" height="325" alt="изображение" src="https://github.com/user-attachments/assets/ac4fece4-0c1b-4c59-8ab1-d51ad9fc079d" />
+
+<img width="590" height="173" alt="изображение" src="https://github.com/user-attachments/assets/3e77bc03-d302-47f1-a6c0-376ad6099acb" />
+
+Но по serial console почему-то не могу подключаться, так со всеми ВМ на сервисе 
 
 
+<img width="1924" height="508" alt="изображение" src="https://github.com/user-attachments/assets/acb103b6-bad8-47a6-a4a8-2ad99d1edad3" />
