@@ -1,3 +1,7 @@
+# Ссылка
+
+https://github.com/YangDevOps089/netology-/tree/main/ter-homeworks/02/src
+
 # Задание 1
 
 Ошибку нашёл только в standard_v4, исправил на standart_v3(поколение процессоров ice lake) мз-за этого пришлось исправить core_fraction = 20
