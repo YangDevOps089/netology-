@@ -13,7 +13,7 @@ https://github.com/YangDevOps089/netology-/tree/main/ter-homeworks/03/src
 
 ${i["name"]} ansible_host=${i["network_interface"][0]["nat_ip_address"]} platform_id=${i["platform_id"]}
 
-#Задание 9
+# Задание 9
 
 [for i in range(1, 100) : format("rc%02d", i)]
 [for i in range(1, 97) : format("rc%02d", i) if i == 19 || !contains([0, 7, 8, 9], i % 10)]
