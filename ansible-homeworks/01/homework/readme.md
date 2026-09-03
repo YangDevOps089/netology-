@@ -1,3 +1,7 @@
+# Ссылка на гит
+
+https://github.com/YangDevOps089/netology-/tree/main/ansible-homeworks/01/repo-source/playbook
+
 # Задание 1
 
 ![alt text](image.png)
